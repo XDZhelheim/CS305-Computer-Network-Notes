@@ -5,16 +5,16 @@
 ---
 
 第一章 计算机网络概述
-1.1 网络边缘 Network Edge
-1.1.1 接入网
-1.1.1.1 家庭接入 Home Network
-1.1.1.2 企业接入 Institutional Network (Ethernet)
-1.1.1.3 广域无线接入 Mobile Network
-1.1.2 物理媒体 Physical Media
-1.2 网络核心 Network Core
-1.2.1 分组交换 Packet Switching
-1.2.2 电路交换 Circuit Switching
-1.2.3 因特网结构: 网络的网络
+* 1.1 网络边缘 Network Edge
+  * 1.1.1 接入网
+    * 1.1.1.1 家庭接入 Home Network
+    * 1.1.1.2 企业接入 Institutional Network (Ethernet)
+    * 1.1.1.3 广域无线接入 Mobile Network
+  * 1.1.2 物理媒体 Physical Media
+* 1.2 网络核心 Network Core
+  * 1.2.1 分组交换 Packet Switching
+  * 1.2.2 电路交换 Circuit Switching
+  * 1.2.3 因特网结构: 网络的网络
 1.3 分组交换网中的时延、丢包和吞吐量
 1.3.1 时延
 1.3.2 排队时延和丢包
